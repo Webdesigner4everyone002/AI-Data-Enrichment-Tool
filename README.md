@@ -1,4 +1,4 @@
-# AI Data Enrichment Tool
+# EnrichIQ —-- LangChain-Powered AI Data Enrichment Dashboard
 
 A Streamlit-based dashboard that allows users to upload CSV files or connect Google Sheets, perform web searches for each entity in a selected column, and extract specific information using an LLM (Google Gemini API via LangChain). Extracted results can be viewed, downloaded, or updated directly in Google Sheets.
 
